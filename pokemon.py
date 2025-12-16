@@ -5,4 +5,5 @@ def pokemon():
     høyde = pokeapi["height"]
     print (vekt)
     print (høyde)
+    
 
